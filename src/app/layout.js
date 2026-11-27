@@ -22,3 +22,4 @@ export default function RootLayout({ children }) {
     </html>
   );
 }
+//R8zRcLaEWa38CrCT supabase password
